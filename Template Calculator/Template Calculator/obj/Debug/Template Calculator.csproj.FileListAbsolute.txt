@@ -1,0 +1,7 @@
+C:\Users\VALERIO.CIPRO\Documents\Visual Studio 2017\Projects\Template Calculator\Template Calculator\bin\Debug\Template Calculator.exe.config
+C:\Users\VALERIO.CIPRO\Documents\Visual Studio 2017\Projects\Template Calculator\Template Calculator\bin\Debug\Template Calculator.exe
+C:\Users\VALERIO.CIPRO\Documents\Visual Studio 2017\Projects\Template Calculator\Template Calculator\bin\Debug\Template Calculator.pdb
+C:\Users\VALERIO.CIPRO\Documents\Visual Studio 2017\Projects\Template Calculator\Template Calculator\obj\Debug\Template Calculator.csprojResolveAssemblyReference.cache
+C:\Users\VALERIO.CIPRO\Documents\Visual Studio 2017\Projects\Template Calculator\Template Calculator\obj\Debug\Template Calculator.csproj.CoreCompileInputs.cache
+C:\Users\VALERIO.CIPRO\Documents\Visual Studio 2017\Projects\Template Calculator\Template Calculator\obj\Debug\Template Calculator.exe
+C:\Users\VALERIO.CIPRO\Documents\Visual Studio 2017\Projects\Template Calculator\Template Calculator\obj\Debug\Template Calculator.pdb
