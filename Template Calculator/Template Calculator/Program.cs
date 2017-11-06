@@ -15,6 +15,7 @@ namespace Template_Calculator
 
             Calcadd ca = new Calcadd();
             ca.Calcola();
+
         }
     }
 }
